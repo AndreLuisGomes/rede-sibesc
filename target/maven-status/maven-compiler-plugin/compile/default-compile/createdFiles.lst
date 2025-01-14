@@ -1,0 +1,11 @@
+com\sibesc\rede_sibesc\entity\dtos\UserRegisterDTO.class
+com\sibesc\rede_sibesc\entity\Post.class
+com\sibesc\rede_sibesc\repository\UserRepository.class
+com\sibesc\rede_sibesc\service\validator\UserValidator.class
+com\sibesc\rede_sibesc\controller\UserController.class
+com\sibesc\rede_sibesc\entity\mappers\UserMapperImpl.class
+com\sibesc\rede_sibesc\entity\User.class
+com\sibesc\rede_sibesc\Application.class
+com\sibesc\rede_sibesc\controller\urlGenerator\GenericController.class
+com\sibesc\rede_sibesc\entity\mappers\UserMapper.class
+com\sibesc\rede_sibesc\service\UserService.class

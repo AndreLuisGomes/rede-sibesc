@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: rede-sibesc
+  datasource:
+    url: jdbc:postgresql://localhost:5433/sibesc
+    username: sibesc
+    password: sibesc
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      # ddl-auto: none
+    properties:
+      hibernate.format_sql: true
+
